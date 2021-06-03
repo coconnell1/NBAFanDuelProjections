@@ -1,2 +1,2 @@
 # NBAFanDuelProjections
-Machine Learning to predict daily fantasy sports NBA scores
+Machine Learning to predict player scores of NBA players

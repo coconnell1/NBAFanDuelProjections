@@ -1,5 +1,5 @@
 # NBAFanDuelProjections
-Using machine Learning to predict NBA player fantasy scores for FanDuel.
+Using machine learning to predict NBA player fantasy scores for FanDuel.
 
 Included in this repository is the entire notebook that I have worked on, and a PDF version of that notebook. 
 
